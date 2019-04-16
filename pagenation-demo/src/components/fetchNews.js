@@ -24,7 +24,7 @@ class FetchNews extends React.Component {
 
   fetchURL(page) {
 
-    axios.get(`http://localhost:8080/articles?page=${page}&limit=10`)
+    axios.get(`http://localhost:8080/articles?page=${page}&size=5`)
       .then( response => {
 
           const totalPages = response.data.totalPages;
@@ -38,8 +38,12 @@ class FetchNews extends React.Component {
           const results = response.data.content;
 
           const updatedResults = results.map(results => {
+
+            var timestamp = new Date(results.pubDate)
+            var dateString = timestamp.toGMTString()
+
             return {
-                ...results,
+                ...results, dateString
               }
             });
 
@@ -70,7 +74,7 @@ class FetchNews extends React.Component {
             key = {article.id}
             headline = {article.headline}
             category = {article.category}
-            pubDate = {article.pubDate}
+            pubDate = {article.dateString}
             snippet = {article.snippet}
             webURL = {article.webURL}
           />;
@@ -82,6 +86,7 @@ class FetchNews extends React.Component {
 
 
   render(){
+
 
 
     return (
@@ -97,7 +102,7 @@ class FetchNews extends React.Component {
          totalItemsCount={this.state.totalItemsCount}
          pageRangeDisplayed={10}
          itemClass='page-item'
-         linkClass='page-link'
+         linkClass='btn btn-light'
          onChange={this.handlePageChange}
          />
        </div>
