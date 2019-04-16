@@ -5,8 +5,8 @@ const Header = () => {
   return (
     <div className="jumbotron ">
       <div className="container">
-        <h1 className="display-4 ">React Pagenation Demo</h1>
-        <p className="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+        <h1 className="display-4 ">React Pagination Demo</h1>
+        <p className="lead">It’s important to limit the amount of data queried by your API in a request.</p>
       </div>
     </div>
     );
