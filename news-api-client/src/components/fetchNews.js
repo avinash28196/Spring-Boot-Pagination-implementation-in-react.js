@@ -1,18 +1,14 @@
 import React from 'react';
 import axios from 'axios';
 import Pagination from "react-js-pagination";
-
 import NewsFeed  from './newsFeed.js';
 
-
 class FetchNews extends React.Component {
-
-
 
   constructor(props) {
     super(props);
     this.state = {
-      creditCardsDetails: [],
+      articlesDetails: [],
       activePage:1,
       totalPages: null,
       itemsCountPerPage:null,
@@ -41,13 +37,12 @@ class FetchNews extends React.Component {
 
             var timestamp = new Date(results.pubDate)
             var dateString = timestamp.toGMTString()
-
             return {
                 ...results, dateString
               }
             });
 
-            this.setState({creditCardsDetails: updatedResults});
+            this.setState({articlesDetails: updatedResults});
             console.log(updatedResults);
             console.log(this.state.activePage);
             console.log(this.state.itemsCountPerPage);
@@ -55,7 +50,6 @@ class FetchNews extends React.Component {
         }
       );
     }
-
 
   componentDidMount () {
       this.fetchURL(this.state.activePage)
@@ -68,9 +62,9 @@ class FetchNews extends React.Component {
 
     }
 
-    populateRowsWithData = () => {
-      const articleData = this.state.creditCardsDetails.map(article => {
-          return <NewsFeed
+  populateRowsWithData = () => {
+    const articleData = this.state.articlesDetails.map(article => {
+        return <NewsFeed
             key = {article.id}
             headline = {article.headline}
             category = {article.category}
@@ -83,16 +77,12 @@ class FetchNews extends React.Component {
       return articleData
     }
 
-
-
   render(){
-
-
 
     return (
       <div >
 
-          {this.populateRowsWithData()}
+      {this.populateRowsWithData()}
 
       <div className="d-flex justify-content-center">
         <Pagination
