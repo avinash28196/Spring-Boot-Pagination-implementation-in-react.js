@@ -1,7 +1,20 @@
+## Spring Jpa @one to many example
 
 
-# Spring and React pagenation Demo
+https://www.callicoder.com/hibernate-spring-boot-jpa-one-to-many-mapping-example/
 
-# EXAMPLE OF REACT PAGENATION 
+![folder structure](https://i.imgur.com/lXOi6ua.png)
 
-![](https://cdn-images-1.medium.com/max/1600/1*kFN0f6oeh29k5Ehc51_BfQ.gif)
+![h2 db](https://i.imgur.com/6eXfaj9.png)
+
+![h2 console](https://i.imgur.com/doWpMJh.png)
+
+![project](https://i.imgur.com/fv9QecO.png)
+
+
+![import 1](https://i.imgur.com/miLd2Ta.png)
+![import 2](https://i.imgur.com/awm4Fh3.png)
+
+![import 3](https://i.imgur.com/Hb6Ljam.png)
+
+![Running the project](https://i.imgur.com/I0GhmRd.png)

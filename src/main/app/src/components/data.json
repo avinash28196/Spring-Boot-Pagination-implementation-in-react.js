@@ -1,0 +1,209 @@
+{
+    "content": [
+        {
+            "id": 1,
+            "articleWordCount": 1793,
+            "headline": "President Trump Is the Enemy of Their Enemies",
+            "category": "OpEd",
+            "pubDate": "2017-04-05T03:01:00.000+0000",
+            "snippet": "For many Republican voters, that’s all that matters.",
+            "webURL": "https://www.nytimes.com/2017/05/04/opinion/president-trump-is-the-enemy-of-their-enemies.html"
+        },
+        {
+            "id": 2,
+            "articleWordCount": 2318,
+            "headline": "6 Million Riders a Day, 1930s Technology",
+            "category": "Metro",
+            "pubDate": "2017-01-04T22:31:00.000+0000",
+            "snippet": "New York’s subway is struggling with old infrastructure and overcrowding. The M.T.A.’s failure to modernize its signal system is a crucial example.",
+            "webURL": "https://www.nytimes.com/2017/05/01/nyregion/new-york-subway-signals.html"
+        },
+        {
+            "id": 3,
+            "articleWordCount": 1795,
+            "headline": "Seeking a Cross-Border Conference",
+            "category": "Sports",
+            "pubDate": "2017-01-05T00:30:00.000+0000",
+            "snippet": "Cetys University is making an ambitious bid to become the first Mexican member of the N.C.A.A.",
+            "webURL": "https://www.nytimes.com/2017/05/01/sports/mexico-cetys-ncaa-border.html"
+        },
+        {
+            "id": 4,
+            "articleWordCount": 213,
+            "headline": "Questions for: ‘Despite the “Yuck Factor,” Leeches Are Big in Russian Medicine’",
+            "category": "Learning",
+            "pubDate": "2017-01-05T00:33:00.000+0000",
+            "snippet": "How are leeches used to treat various medical conditions in Russia?",
+            "webURL": "https://www.nytimes.com/2017/05/01/learning/questions-for-despite-the-yuck-factor-leeches-are-big-in-russian-medicine.html"
+        },
+        {
+            "id": 5,
+            "articleWordCount": 1342,
+            "headline": "Who Is a ‘Criminal’?",
+            "category": "OpEd",
+            "pubDate": "2017-01-05T01:50:00.000+0000",
+            "snippet": "Justice Roberts was right. The Trump administration should not have the power to revoke the citizenship of “anyone they want.”",
+            "webURL": "https://www.nytimes.com/2017/05/01/opinion/who-is-a-criminal.html"
+        },
+        {
+            "id": 6,
+            "articleWordCount": 885,
+            "headline": "An Antidote to Europe’s Populism",
+            "category": "OpEd",
+            "pubDate": "2017-01-05T01:51:00.000+0000",
+            "snippet": "Beating back the radical right is clearly possible. But the work isn’t done yet.",
+            "webURL": "https://www.nytimes.com/2017/05/01/opinion/populism-has-not-peaked-in-europe-the-fight-continues.html"
+        },
+        {
+            "id": 7,
+            "articleWordCount": 676,
+            "headline": "The Cost of a Speech",
+            "category": "Editorial",
+            "pubDate": "2017-01-05T01:51:00.000+0000",
+            "snippet": "In an era of purchased influence, why can’t former President Barack Obama set a higher standard?",
+            "webURL": "https://www.nytimes.com/2017/05/01/opinion/the-cost-of-barack-obamas-speech.html"
+        },
+        {
+            "id": 8,
+            "articleWordCount": 807,
+            "headline": "Degradation of the Language",
+            "category": "Editorial",
+            "pubDate": "2017-01-05T01:51:00.000+0000",
+            "snippet": "In Trump world, facts don’t matter, truth doesn’t matter, language doesn’t matter.",
+            "webURL": "https://www.nytimes.com/2017/05/01/opinion/donald-trump-degradation-of-the-language.html"
+        },
+        {
+            "id": 9,
+            "articleWordCount": 816,
+            "headline": "On the Power of Being Awful",
+            "category": "Editorial",
+            "pubDate": "2017-01-05T01:51:00.000+0000",
+            "snippet": "Trump supporters will never admit they were wrong.",
+            "webURL": "https://www.nytimes.com/2017/05/01/opinion/donald-trump-on-the-power-of-being-awful.html"
+        },
+        {
+            "id": 10,
+            "articleWordCount": 1124,
+            "headline": "Trump Garbles Pitch on a Revised Health Bill",
+            "category": "National",
+            "pubDate": "2017-01-05T03:30:00.000+0000",
+            "snippet": "President Trump has insisted that the bill would not allow discrimination against people with pre-existing conditions, an assertion contradicted by health policy experts.",
+            "webURL": "https://www.nytimes.com/2017/05/01/us/politics/trump-health-care.html"
+        },
+        {
+            "id": 11,
+            "articleWordCount": 807,
+            "headline": "What’s Going On in This Picture? | May 1, 2017",
+            "category": "Learning",
+            "pubDate": "2017-01-05T04:00:00.000+0000",
+            "snippet": "Look closely at this image, stripped of its caption, and join the moderated conversation about what you and other students see.",
+            "webURL": "https://www.nytimes.com/2017/05/01/learning/whats-going-on-in-this-picture-may-1-2017.html"
+        },
+        {
+            "id": 12,
+            "articleWordCount": 816,
+            "headline": "Unknown",
+            "category": "Upshot",
+            "pubDate": "2017-01-05T04:00:00.000+0000",
+            "snippet": "Spinal manipulation and other therapies seem at least as effective and safe as more traditional treatment.",
+            "webURL": "https://www.nytimes.com/2017/05/01/upshot/for-bad-backs-its-time-to-rethink-biases-about-chiropractors.html"
+        },
+        {
+            "id": 13,
+            "articleWordCount": 1070,
+            "headline": "When Patients Hit a Medical Wall",
+            "category": "Science",
+            "pubDate": "2017-01-05T04:30:00.000+0000",
+            "snippet": "A new book details the cases of families that step outside the realm of established medicine because they feel they have no other choice.",
+            "webURL": "https://www.nytimes.com/2017/05/01/well/live/hitting-a-medical-wall-and-turning-to-unproven-treatments.html"
+        },
+        {
+            "id": 14,
+            "articleWordCount": 855,
+            "headline": "The Trumpcare Disaster",
+            "category": "Editorial",
+            "pubDate": "2017-04-05T14:36:00.000+0000",
+            "snippet": "Now that Republicans have rammed their health care-destroying bill through the House, Americans have to hope the Senate will stop it.",
+            "webURL": "https://www.nytimes.com/2017/05/04/opinion/obamacare-house-vote.html"
+        },
+        {
+            "id": 15,
+            "articleWordCount": 1101,
+            "headline": "For Pregnant Women, Getting Serious About Whooping Cough",
+            "category": "Well",
+            "pubDate": "2017-01-05T04:33:00.000+0000",
+            "snippet": "Vaccinating pregnant women is the best way to keep babies safe in the first few months of life.",
+            "webURL": "https://www.nytimes.com/2017/05/01/well/family/for-pregnant-women-getting-serious-about-whooping-cough.html"
+        },
+        {
+            "id": 16,
+            "articleWordCount": 1089,
+            "headline": "Unknown",
+            "category": "Upshot",
+            "pubDate": "2017-01-05T05:30:00.000+0000",
+            "snippet": "The economy and party identification typically matter a lot in elections, even in a year with a highly atypical candidate like Donald Trump.",
+            "webURL": "https://www.nytimes.com/2017/05/01/upshot/the-ways-that-the-2016-election-was-perfectly-normal.html"
+        },
+        {
+            "id": 17,
+            "articleWordCount": 677,
+            "headline": "New York City Transit Reporter in Wonderland: Riding the London Tube",
+            "category": "Insider",
+            "pubDate": "2017-01-05T09:49:00.000+0000",
+            "snippet": "“It was like being dropped into an alternate universe where people actually like their subway.”",
+            "webURL": "https://www.nytimes.com/2017/05/01/insider/a-new-york-city-transit-reporter-in-wonderland-riding-the-london-tube.html"
+        },
+        {
+            "id": 18,
+            "articleWordCount": 567,
+            "headline": "How to Cut an Avocado Without Cutting Yourself",
+            "category": "Dining",
+            "pubDate": "2017-01-05T10:13:00.000+0000",
+            "snippet": "The popular fruit has earned a dangerous reputation in emergency rooms and doctor’s offices.",
+            "webURL": "https://www.nytimes.com/2017/05/01/dining/avocado-injuries-cutting-safety.html"
+        },
+        {
+            "id": 19,
+            "articleWordCount": 1201,
+            "headline": "In Fictional Suicide, Health Experts Say They See a Real Cause for Alarm",
+            "category": "Well",
+            "pubDate": "2017-01-05T11:27:00.000+0000",
+            "snippet": "A rising chorus of mental health experts contends that many of the show’s messages on suicide are inaccurate and potentially dangerous.",
+            "webURL": "https://www.nytimes.com/2017/05/01/well/family/for-families-of-teens-at-suicide-risk-13-reasons-triggers-concerns.html"
+        },
+        {
+            "id": 20,
+            "articleWordCount": 1135,
+            "headline": "Claims of Liberal Media Bias Hit ESPN, Too",
+            "category": "Sports",
+            "pubDate": "2017-01-05T11:45:00.000+0000",
+            "snippet": "Some conservative critics have celebrated ESPN’s struggles, saying its coverage of some issues reveals a left-leaning sensibility.",
+            "webURL": "https://www.nytimes.com/2017/05/01/sports/espn-layoffs-sports-politics-bias.html"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "offset": 0,
+        "pageSize": 20,
+        "pageNumber": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "last": false,
+    "totalPages": 23,
+    "totalElements": 445,
+    "size": 20,
+    "number": 0,
+    "numberOfElements": 20,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "empty": false
+}
