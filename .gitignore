@@ -1,67 +1,12 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
-
-
-
-
-node_modules
-build
-npm-debug.log
-.env
-.DS_Store
-
-*#
-*.iml
-*.ipr
-*.iws
-*.jar
-*.sw?
-*~
-.#*
-.*.md.html
-.DS_Store
-.classpath
-.factorypath
-.gradle
-.idea
-.metadata
-.project
-.recommenders
-.settings
-.springBeans
-/build
-/code
-MANIFEST.MF
-_site/
-activemq-data
-bin
-build
-build.log
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
 dependency-reduced-pom.xml
-dump.rdb
-interpolated*.xml
-lib/
-manifest.yml
-overridedb.*
-target
-transaction-logs
-.flattened-pom.xml
-secrets.yml
-.gradletasknamecache
-.sts4-cache
+buildNumber.properties
+.mvn/timing.properties
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
